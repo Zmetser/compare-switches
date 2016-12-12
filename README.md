@@ -1,18 +1,15 @@
-electron-boilerplate-vue
+compare-switches
 ==============
+Compare two or more kinja blog's feature switches.
 This project is based on [bradstewart/electron-boilerplate-vue](https://github.com/bradstewart/electron-boilerplate-vue)
 
-
 # Quick start
-The only development dependency of this project is [Node.js](https://nodejs.org). So just make sure you have it installed.
-Then type few commands known to every Node developer...
 ```
 git clone https://github.com/zmetser/compare-switches.git
-cd electron-boilerplate-vue
+cd compare-switches
 npm install
 npm start
 ```
-... and boom! You have running desktop application on your screen.
 
 *Note:* The app can't load the mantle API by default. Please run mantle with this branch: [`compare-switches-companion`](https://github.com/gawkermedia/kinja-mantle/tree/compare-switches-companion)
 
