@@ -1,0 +1,8 @@
+{
+  "name": "compare-switches",
+  "productName": "Compare Switches",
+  "version": "0.1.0",
+  "description": "Compare two or more kinja blog's feature switches.",
+  "author": "Oliver Kovacs <oliver@gizmodomedia.com>",
+  "main": "background.js"
+}
